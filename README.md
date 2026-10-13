@@ -32,7 +32,6 @@ csc /nologo /codepage:65001 /target:winexe /win32icon:xoszhtool.ico /r:System.dl
 | 文件 | 说明 |
 | --- | --- |
 | XosZhTool.cs | 全部源码（单文件） |
-| XosZhTool.exe | 编译好的工具 |
 | zh_map.tsv | BAML 界面文本翻译表（435 键） |
 | us_map.tsv | 运行时字符串（#US 堆）覆写白名单 |
 | xoszhtool.ico | 工具图标 |
