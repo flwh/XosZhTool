@@ -1,0 +1,444 @@
+CATEGORY	类别
+Forced	强制
+Disable Indexing	禁用索引
+Light theme	浅色
+Reboot to BIOS Now	立即进入BIOS
+Windows Defaults turns Windows Defender back on and returns the services, features, tasks and devices XOS changed to their Windows settings. XOS Defaults puts services back the way XOS sets them and does not touch Windows Defender. Both require a restart.	Windows 默认会重新打开 Windows Defender，并把 XOS 改过的服务、功能、任务和设备恢复为 Windows 设置。XOS 默认把服务恢复为 XOS 的设置，不动 Windows Defender。两者都需重启。
+Restricted	受限
+Disable Game Bar Only	仅禁用 Game Bar
+Disable VPN Services	禁用 VPN 服务
+Replaces the Windows Start menu with Open Shell, a lightweight classic-style menu. The built-in Start menu is turned off while it is installed.	用轻量经典风格的 Open Shell 取代 Windows 开始菜单。安装后内置开始菜单会关闭。
+Reading scheduled tasks...	读取计划任务中...
+Force Disable (UEFI Lock)	强制禁用(UEFI锁定)
+Enable MSI mode	启用MSI模式
+A reboot is required after applying or restoring interrupt settings.	应用或恢复中断设置后需要重启。
+Raises the CPU priority Windows gives to games from 2 to 6. Only games that use the Windows multimedia scheduler are affected, and most do not. Has no effect while High Scheduling Category below is on. Test it on your own PC.	把 Windows 给游戏的 CPU 优先级从 2 提高到 6。只影响使用 Windows 多媒体调度器的游戏，且大多不用它。下方“高调度类别”开启时不生效。请自行测试。
+Normal turns Windows Update fully back on and clears pauses. Disabled turns off automatic updates; you install updates yourself from Settings. The other settings on this page keep their values. Disabling updates leaves the PC without security fixes and is not recommended for daily use. The Microsoft Store, Microsoft account sign-in, Windows Hello and Defender virus definitions all need Windows Update.	正常会完全打开 Windows 更新并清除暂停。禁用会关闭自动更新，你需自己从设置中安装。本页其他设置保持当前值。禁用更新会让电脑失去安全修复，不建议日常使用。Microsoft Store、微软账户登录、Windows Hello 和 Defender 病毒库都需要 Windows 更新。
+Puts games that use the Windows multimedia scheduler into the highest priority group, the one made for pro audio. Most games do not use it, and it can help or hurt depending on the game. Test it and turn it off if it does not help.	把使用 Windows 多媒体调度器的游戏放进最高优先级组（为专业音频而设）。大多数游戏不用它，效果因游戏而异，可能帮忙也可能帮倒忙。测试无效就关掉。
+Show or hide the Pictures folder in both places it appears: the Quick Access (Home) pins in the sidebar and the folder list inside This PC.	显示或隐藏图片文件夹出现的两处：侧边栏的快速访问 (主页) 固定项和"此电脑"内的文件夹列表。
+Detecting...	检测中...
+Enable Fullscreen Optimizations	启用全屏优化
+ logical processors	 线程
+Disabled	禁用
+Network Adapter Tweaks	网卡优化
+Professional Optimization	专业优化
+Apply Selected Categories	应用选中的类别
+LAN Only	仅LAN
+Additional settings that affect what gets downloaded and when.	影响下载内容及时机的其他设置。
+Please do not close the toolkit or turn off your PC.	请勿关闭工具包或电脑。
+Remove from Context Menu	从右键菜单移除
+CPU Affinity Rules	CPU亲和规则
+Be among the first to receive non-security improvements as they roll out.	在非安全改进推出时第一时间获得。
+Standard Windows	标准 Windows
+Enabling MSI mode on audio devices is likely to cause audio dropouts or crackling. Do not enable it for audio controllers unless you are specifically testing a known-compatible device.	在音频设备上启用 MSI 模式很可能导致声音断续或爆音。除非你在专门测试已知兼容的设备，否则不要对音频控制器启用。
+Restore Windows Default	恢复 Windows 默认
+Adds or removes the XOS power plan, tuned for performance. Once added, pick it from the Power Plan menu on the desktop right-click menu or in Windows power settings.	添加或移除为性能调优的 XOS 电源计划。添加后可从桌面右键的电源计划菜单或 Windows 电源设置中选择。
+Useful on Intel CPUs with P-cores and E-cores, and on Ryzen CPUs with more than one CCD or with 3D V-Cache. Move background apps to efficiency or non-3D cores and keep your best cores free for your game. CPU Set is recommended: it works with most games and anti-cheats. Affinity locks a program to specific cores more strictly, but most anti-cheats block or override it.	适用于有 P 核和 E 核的 Intel CPU，以及有多个 CCD 或 3D V-Cache 的 Ryzen。将后台应用移到能效核或非 3D 核，把好核心留给游戏。推荐用 CPU Set：它兼容大多数游戏和反作弊。Affinity 更严格，把程序锁到特定核心，但大多反作弊会拦截或覆盖它。
+Applying...	应用中
+Restart Required Notification	需要重启通知
+Turns on the built-in Windows VPN and the network services that VPN apps commonly need. Enabling VPN also turns Wi-Fi services back on.	打开 Windows 内置 VPN 和 VPN 应用常用的网络服务。启用 VPN 也会重新打开 Wi-Fi 服务。
+Network	网络
+Control	控制
+AMD Radeon GPU Tweaks	AMD Radeon GPU 优化
+Variable Refresh Rate	可变刷新率
+Manage WiFi, Bluetooth services and drivers	管理 WiFi、蓝牙服务和驱动
+Disable HAGS	禁用 HAGS
+Lets your PC share downloaded updates with other PCs so they download less from the internet. Sharing uses your upload bandwidth.	让你的电脑与其他电脑共享已下载的更新，减少从互联网下载。共享会占用你的上传带宽。
+Sets the network adapter settings XOS changed back to their driver defaults, then resets Windows networking: DNS cache, TCP/IP, Winsock and firewall rules. Custom firewall rules are removed. Try this if your internet is slow or not working. The PC restarts automatically.	把 XOS 改过的网卡设置恢复为驱动默认值，然后重置 Windows 网络：DNS 缓存、TCP/IP、Winsock 和防火墙规则。自定义防火墙规则会被删除。网速慢或无法上网时试试。电脑自动重启。
+Scanning startup entries...	正在扫描启动项...
+Windows keeps 20 percent of CPU time for background tasks while games and media apps run. Lowering it to 10 gives more of it to the game. Only affects apps that use the Windows multimedia scheduler, so results vary.	游戏和媒体应用运行时，Windows 保留 20% 的 CPU 时间给后台任务。降到 10% 能给游戏更多。只影响使用 Windows 多媒体调度器的应用，效果因机而异。
+Export Diagnostic Bundle	导出诊断包
+Recommended	推荐
+Import from File	从文件导入
+Install	安装
+Visuals	视觉
+Windows Themes	Windows 主题
+no	否
+Gaming & Performance	游戏与性能
+Power Plan Context Menu	电源右键菜单
+Affinity	亲和
+Memory Integrity (HVCI)	内存完整性 (HVCI)
+Lets other computers connect to this PC with Windows Remote Desktop. Apps like Parsec, AnyDesk and TeamViewer do not need it. Disabling it closes a common way into the PC from the network.	让其他电脑通过 Windows 远程桌面连接到本机。Parsec、AnyDesk 和 TeamViewer 等应用不需要它。禁用可关闭从网络进入电脑的常见途径。
+Hide Microsoft items	隐藏 Microsoft 项
+Context menu and visual customization	右键菜单和视觉自定义
+High Scheduling Category for Gaming	游戏高调度类别
+Controls how Windows groups its services into shared processes. Default is how Windows does it. Recommended groups more services together to save some RAM while keeping important ones separate. Forced groups everything for the lowest RAM use, but can break features like Xbox services.	控制 Windows 如何把服务分组到共享进程。默认是 Windows 的做法。推荐把更多服务分组以省内存，同时保持重要服务分开。强制全部分组以求最低内存占用，但可能破坏 Xbox 服务等功能。
+Audio controller warning	音频控制器警告
+Show or hide Network in the File Explorer navigation pane.	在资源管理器导航窗格显示或隐藏网络。
+Disable Wi-Fi	禁用 Wi-Fi
+0 of 0 cores selected	已选 0/0 核
+Block Drivers	阻止驱动
+{0} cores / {1} logical processors	{0} 核 / {1} 线程
+Windows Update	Windows 更新
+Uninstall Selected	卸载选中项
+Trigger	触发
+Fixes 'Location is not available' errors by pointing Desktop, Documents, Downloads, Pictures, Music, Videos and Screenshots back to their default folders.	修复"位置不可用"错误，将桌面、文档、下载、图片、音乐、视频和截图指回默认文件夹。
+Press Scan to analyze.	点扫描开始分析
+Loading events...	加载中...
+Local hardware	本地硬件
+Background Service	后台服务
+Automatically download and install updates for apps from the Microsoft Store.	自动下载并安装来自 Microsoft Store 的应用更新。
+Network & Connectivity	网络与连接
+Enable Wi-Fi	启用Wi-Fi
+Get Me Up To Date (Restart ASAP)	尽快更新（立即重启）
+Security Focused	安全优先
+Download Updates over Metered Connections	按流量计费连接下载更新
+Enable (Default)	启用(默认)
+Disable FiveM Services	禁用 FiveM 服务
+This tool is designed for XOS users.
+
+You can still use it on a standard Windows install, but expect bugs, stability problems, and limited functionality. Some options rely on registry keys, services, and tweaks that the XOS Playbook sets up.
+
+For the full experience, apply the XOS Playbook first.	本工具专为 XOS 用户设计。
+
+你仍可在标准 Windows 系统上使用，但可能会遇到 Bug、稳定性问题和功能受限。部分选项依赖于 XOS Playbook 所设置的注册表项、服务和调整。
+
+如需完整体验，请先应用 XOS Playbook。
+Service Grouping (Svchost Split)	服务分组 (Svchost 拆分)
+Update Behavior	更新行为
+Process Name:	进程名：
+Reading interrupt resources...	正在读取中断资源...
+Refresh	刷新
+Press Scan to analyze disk usage.	点扫描来分析磁盘占用
+CURRENT	当前
+Select this device. Restore requires saved original settings.	选择此设备。恢复需要已保存的原始设置。
+Manage startup types for services disabled by XOS. Disable applies XOS defaults. Restore reverts to the Windows default. Changes take effect on next reboot.	管理 XOS 禁用的服务的启动类型。禁用则应用 XOS 默认值。恢复则还原为 Windows 默认。更改在下次重启生效。
+While music or video is playing, Windows limits how fast other network traffic is handled. Windows keeps this limit on by default. Turning it off can help in some online games, but may cause latency spikes on some PCs, so test both.	音乐或视频播放时，Windows 限制其他网络流量的处理速度。Windows 默认开启此限制。关掉可帮助部分网游，但某些电脑上会导致延迟尖峰，请自测。
+Asks for your permission before an app makes changes that need administrator rights. When disabled, apps get those rights without asking, which also lets malware make changes silently. Requires a restart.	在应用进行需要管理员权限的更改前征求你的同意。禁用后应用无需询问即可获得这些权限，恶意软件也能静默更改。需重启。
+Remove temporary files and system junk to free up disk space	删除临时文件和系统垃圾，释放磁盘空间
+Build {0}.{1}.{2}	版本 {0}.{1}.{2}
+Chocolatey Package Manager	Chocolatey 包管理器
+Multiplane Overlay lets the graphics card combine screen layers itself, which saves work for Windows. On some PCs it causes flickering or stutter. Disable it only if you see those problems.	多平面覆盖让显卡自己合成屏幕图层，减少 Windows 的工作。某些电脑上会导致闪烁或卡顿。只在遇到这些问题时禁用它。
+Checking	检查
+Dark theme	深色
+System state changed. A reboot is required.	系统状态已更改，需要重启。
+Creates one ZIP with XOS and AME Wizard logs, crash reports and Windows event logs. Send it when you report a problem.	把 XOS 和 AME Wizard 日志、崩溃报告和 Windows 事件日志打包成一个 ZIP。报告问题时发送它。
+Game Bar: Checking	Game Bar 检测
+Lets Windows manage colors so apps show accurate colors on wide color and HDR displays. Windows 11 only, and only on supported displays. Requires a restart.	让 Windows 管理颜色，使应用在广色域和 HDR 显示器上显示准确颜色。仅 Windows 11，且仅限支持的显示器。需重启。
+Lets windowed and borderless games use a faster way to show frames, which lowers input delay. Also needed for Variable Refresh Rate and Auto HDR in those modes. Does not affect exclusive fullscreen games.	让窗口化和无边框游戏用更快的方式显示帧，降低输入延迟。这些模式下的可变刷新率和自动 HDR 也需要它。不影响独占全屏游戏。
+Device-level interrupt control	设备级中断控制
+Write-Cache Buffer Flushing	写入缓存刷新
+Peripherals	外设
+Get Latest Updates as Soon as Available	尽快获取最新更新
+Remove Selected	移除选中项
+Scheduled tasks	计划任务
+Restart as soon as possible to finish updating, even during active hours. Enabling this turns off Prevent Auto Restarts.	尽快重启以完成更新，即使在活跃时间。启用此项会关闭"阻止自动重启"。
+Install and manage applications via Chocolatey	通过 Chocolatey 安装和管理应用
+Request a personal optimization session focused on latency and system performance.	预约一次个人优化会话，专注于延迟和系统性能。
+Blank uses the driver default	留空使用驱动默认值
+Runtime: Checking...	运行时检查中
+Remove Inactive Devices	移除不活跃设备
+Microsoft Edge Auto-Install	Microsoft Edge 自动安装
+Import preview	导入预览
+Enable	启用
+Windows pop-up notifications and system alerts. Needed by apps like WhatsApp, Snipping Tool, the Xbox app and most Store apps to show their alerts. Requires a restart.	Windows 弹出通知和系统警报。WhatsApp、截图工具、Xbox 应用和大多数 Store 应用显示提醒时需要。需重启。
+Processor	处理器
+Disk Cleanup	磁盘清理
+Receive Microsoft Update updates for supported products, including MSI-based Office. Microsoft 365 Click-to-Run uses its own updater.	接收受支持产品的 Microsoft Update 更新，包括 MSI 版 Office。Microsoft 365 即点即用使用自己的更新器。
+Export CSV	导出CSV
+Install Chocolatey	安装 Chocolatey
+Services behind the GPU graphs and network usage numbers in Task Manager, and data usage in Settings. Disabling them saves a little background work. Requires a restart.	任务管理器中 GPU 图表和网络用量数字、以及设置中数据用量背后的服务。禁用可减少少量后台工作。需重启。
+Configuration Backup	配置备份
+Service Configurator	服务配置器
+Command	命令
+Remove	移除
+Loading packages...	正在加载包...
+Uses your CPU's virtualization feature to protect core parts of Windows from malware. Turning it off can raise FPS but lowers security. Some anti-cheats may require it, and Memory Integrity below needs it. To turn it on, virtualization (SVM or VT-x) must also be enabled in your BIOS.	用 CPU 的虚拟化功能保护 Windows 核心部分免受恶意软件侵害。关闭可提升 FPS 但降低安全性。部分反作弊可能需要它，下方"内存完整性"也需要。开启时还需在 BIOS 中启用虚拟化 (SVM 或 VT-x)。
+Export all your process rules and saved presets to a file, then import them after a Windows reinstall. Import onto the same CPU restores everything exactly. A different CPU still works but core layouts may not line up.	把进程规则和已存预设全部导出到文件，重装 Windows 后再导入。导入到同一 CPU 会精确还原一切。换 CPU 仍可用，但核心布局可能对不上。
+Known Game List (KGL) Metadata	已知游戏列表元数据
+View and manage programs that run at logon and scheduled tasks	查看和管理登录时运行的程序及计划任务
+Adds a 'Choose Power Plan' menu to the desktop right-click menu for quick switching between power plans and power options.	向桌面右键菜单添加"选择电源计划"，方便快速切换电源计划和电源选项。
+Recovery	恢复
+Removes Chocolatey and everything it left behind, even if it looks uninstalled already. Apps you installed with it stay installed. The Toolkit will not reinstall Chocolatey on its own.	移除 Chocolatey 及其留下的一切，即使看起来已卸载。用它安装的应用会保留。Toolkit 不会自行重装 Chocolatey。
+Turns off power saving features on your Ethernet adapter, such as Energy Efficient Ethernet and Wake-on-LAN. Reset puts these back to default, also resets Windows network settings and firewall rules, then restarts the PC.	关闭有线网卡的省电功能，如节能以太网和网络唤醒。"重置"会还原这些默认值，同时重置 Windows 网络设置和防火墙规则，然后重启电脑。
+Turns the settings XOS changed back to Windows defaults: registry tweaks, services, scheduled tasks, UAC, telemetry and more. Apps XOS removed are not reinstalled. Requires a restart.	把 XOS 改过的设置恢复为 Windows 默认值：注册表调整、服务、计划任务、UAC、遥测等。XOS 移除的应用不会重装。需重启。
+BACKUP	备份
+Immersive (Default)	沉浸式 (默认)
+Update Root Certificates	更新根证书
+AppX Package Manager	AppX 包管理器
+Hard Disable is unavailable while this profile has a stored Microsoft account. Disabling Windows Update on an online account can break authentication and account sync.	当此配置文件有已存储的微软账户时，无法使用硬禁用。在线账户上禁用 Windows 更新可能破坏身份验证和账户同步。
+yes	是
+Export Configuration	导出配置
+Power Savings	省电
+Interrupt priority	中断优先级
+Security, power, virtualization, and Windows services.	安全、电源、虚拟化和 Windows 服务。
+Updates still install automatically, but Windows will not restart on its own while you are signed in. Deadlines set by an organization can still force a restart.	更新仍会自动安装，但你登录期间 Windows 不会自行重启。组织设置的期限仍可强制重启。
+Administrator	管理员
+Hibernate	休眠
+Switch between the classic Windows Alt-Tab switcher and the modern immersive Alt-Tab. Requires an Explorer restart to take effect.	在经典 Windows Alt-Tab 切换器和现代沉浸式 Alt-Tab 之间切换。需要重启资源管理器生效。
+Opens NVIDIA Profile Inspector with the XOS profile loaded. Click "Apply changes" in the tool to apply it to your NVIDIA driver.	打开载入 XOS 配置的 NVIDIA Profile Inspector，在工具中点 "Apply changes" 应用。
+Pick Old Duplicates	挑选旧副本
+Experimental	实验性
+{0} logical processors	{0} 线程
+Active rules	活动规则
+ok	确定
+Backup & Restore	备份与恢复
+Allow Drivers	允许驱动
+Allow or block driver updates from Windows Update. Blocking stops Windows from replacing drivers you installed yourself, like graphics drivers. Windows feature updates may still include some drivers.	允许或阻止 Windows 更新的驱动更新。阻止可防止 Windows 替换你自行安装的驱动，如显卡驱动。Windows 功能更新仍可能包含部分驱动。
+Enable FiveM Services	启用 FiveM 服务
+125 Hz (Default)	125 Hz (默认)
+Optimize fullscreen behavior, Game Bar, and GPU settings	优化全屏行为、Game Bar 和 GPU 设置
+Updates for Other Microsoft Products	其他 Microsoft 产品的更新
+Update Certificates	更新证书
+PowerShell Execution Policy	PowerShell 执行策略
+Show a notification when a restart is required to finish updating.	完成更新需要重启时显示通知。
+Wi-Fi Services	Wi-Fi 服务
+Print and scan services and Windows printing features. Needed if you use a printer or scanner.	打印和扫描服务及 Windows 打印功能。使用打印机或扫描仪时需要。
+Device / INF	设备/INF
+Background Message Rate Limit	后台消息速率限制
+Checking...	检查...
+Restore Service Defaults	恢复服务默认值
+Graphics	显卡
+Select	选择
+Disable Printing	禁用打印
+Disable Search	禁用搜索
+Export to File	导出文件
+Fixes, resets, and advanced configuration	修复、重置和高级配置
+Uninstall	卸载
+CPU rules and presets	CPU规则与预设
+Install Selected	安装选中项
+XOS Power Plan	XOS 电源
+Dismiss	忽略
+Remove OneDrive	移除 OneDrive
+{0:0.#} GB currently available	当前可用 {0:0.#} GB
+Stability Monitor	稳定性监控
+MPO Minimum Frame Rate Requirement	MPO 最低帧率要求
+Cores:	核心
+The Known Game List helps Windows recognize games. XOS blocks its automatic refresh. This checks Microsoft for the latest list details. It does not confirm that Windows has installed the list.	已知游戏列表帮助 Windows 识别游戏。XOS 阻止其自动刷新。此操作向微软查询最新列表信息，不确认 Windows 已安装该列表。
+Do not disable if you experience power outages or use an unstable power supply. Applies to all internal non-USB storage devices.	如果经常断电或电源不稳，请勿禁用。适用于所有内部非 USB 存储设备。
+Control what notifications Windows shows for available updates and required restarts.	控制 Windows 为可用更新和所需重启显示哪些通知。
+Disable Indexing stops Windows from indexing your files, so file searches are slower but there is less disk activity. Disable Search also turns off the search box in the taskbar and Start menu. Requires a restart.	禁用索引会停止 Windows 为文件建立索引，搜索变慢但磁盘活动减少。禁用搜索还会关闭任务栏和开始菜单的搜索框。需重启。
+Search	搜索
+Control update behavior, delivery, and automatic restart settings	控制更新行为、传递和自动重启设置
+Helps G-Sync or FreeSync work in windowed and borderless games. Does nothing without a monitor that supports G-Sync or FreeSync.	帮助 G-Sync 或 FreeSync 在窗口化和无边框游戏中生效。没有支持 G-Sync 或 FreeSync 的显示器则无效。
+Normal	正常
+Remove this startup entry	移除此启动项
+[About] Could not open 	[关于] 无法打开 
+DETAIL	详情
+Update Policy	更新策略
+Cancel	取消
+Critical	严重
+Hardware-Accelerated GPU Scheduling (HAGS)	硬件加速 GPU 调度 (HAGS)
+Windows Update is hard disabled, so the settings below have no effect until you choose Normal. Their badges still show the last value Windows recorded, which is why a greyed card can read Enabled.	Windows 更新已被硬禁用，在你选择"正常"前下方设置无效。徽章仍显示 Windows 记录的最后一个值，所以灰掉的卡片可能显示"已启用"。
+USB power, printing, serial ports, and clipboard features	USB 电源、打印、串口和剪贴板功能
+Location	位置
+Control automatic driver updates through Windows Update and app updates from the Microsoft Store.	控制通过 Windows 更新进行的驱动更新，和来自 Microsoft Store 的应用更新。
+Lets Microsoft Store apps keep running in the background to receive messages, calls and updates. If a Store messaging app like WhatsApp only shows new messages after you open it, enable this. Regular desktop programs are not affected.	让 Microsoft Store 应用在后台继续运行以接收消息、通话和更新。如果 WhatsApp 等 Store 消息应用只有打开后才显示新消息，请启用。普通桌面程序不受影响。
+Control how Windows handles restarts required to finish installing updates.	控制 Windows 如何处理完成更新安装所需的重启。
+Select All	全选
+View Service	查看服务
+Reboot to BIOS / UEFI	重启到BIOS/UEFI
+CPU Affinity	CPU亲和
+For AMD Radeon graphics cards. Safe turns off AMD data collection, Radeon Chill, Radeon Boost, the AMD crash and log services, PCIe power saving and MPO, and clears power saving values that cause stutter. Experimental also forces higher clocks and turns off more power saving. Experimental is not recommended for RX 7000 or RX 9000 cards. Requires a restart.	适用于 AMD Radeon 显卡。安全模式会关闭 AMD 数据收集、Radeon Chill、Radeon Boost、AMD 崩溃和日志服务、PCIe 省电和 MPO，并清除导致卡顿的省电值。实验模式还会强制更高频率并关闭更多省电。不建议在 RX 7000 或 RX 9000 卡上用实验模式。需重启。
+Windows moves apps off the overlay layer when their frame rate is low. Turning this rule off can fix stutter in browsers and Discord without disabling MPO. Requires a restart.	帧率低时 Windows 会把应用移出叠加层。关掉此规则可不禁用 MPO 就修复浏览器和 Discord 的卡顿。需重启。
+Note: Newer CPUs lose little speed to these protections, so the gain on them is small. Not recommended on PCs shared with other people.	注意：较新 CPU 受这些防护影响很小，提升有限。不建议在多人共用的电脑上禁用。
+Nagle's Algorithm	Nagle 算法
+Saves everything you have open to the drive and fully powers off the PC, so you can continue later. Disabling it frees several GB of disk space and also turns off Fast Startup.	把你打开的一切保存到硬盘并完全关机，以便稍后继续。禁用可释放数 GB 磁盘空间，也会关闭快速启动。
+Reset Network & Reboot	重置网络并重启
+Build 	版本 
+Included categories	包含的类别
+Makes older games that were not made for HDR look brighter and more colorful. Only works on an HDR display with HDR turned on. Windows 11 only.	让没为 HDR 制作的老游戏更亮更鲜艳。仅在开启 HDR 的 HDR 显示器上有效。仅 Windows 11。
+Windows Search	Windows 搜索
+Administrator session	管理员会话
+Driver & Store Updates	驱动与商店更新
+Fix Time Sync	修复时钟
+Controls whether Windows tells your drives to save cached data right away. Disabling it can speed up file writes, but if the PC loses power suddenly, recent files can be lost or damaged.	控制 Windows 是否让硬盘立即保存缓存数据。禁用可加快文件写入，但电脑突然断电时近期文件可能丢失或损坏。
+Network Reset (Low Internet Speed Fix)	网络重置（网速慢修复）
+No packages found.	未找到包。
+Scanning...	扫描中
+GPU Priority for Gaming	游戏 GPU 优先级
+Lets USB devices, PCIe devices and drives drop into low power states when idle. Disabling it can remove small delays when a device wakes up, but uses more power. Keep it enabled on laptops.	让 USB 设备、PCIe 设备和硬盘空闲时进入低功耗状态。禁用可消除设备唤醒时的小延迟，但更耗电。笔记本上请保持启用。
+Revert to Default	恢复默认
+Optimizations for Windowed Games	窗口化游戏优化
+Export Toolkit-managed settings to one versioned JSON file, or preview and restore a previous configuration.	将 Toolkit 管理的设置导出为单个带版本号的 JSON 文件，或预览并恢复以前的配置。
+Snipping Tool & Clipboard History	截图工具与剪贴板历史
+System	系统
+Show or hide Quick Access in the File Explorer navigation pane.	显示或隐藏资源管理器导航窗格中的快速访问。
+Apply XOS Tweaks	应用XOS优化
+System state	系统状态
+ACTION	操作
+Notifications	通知
+Reclaimable Space	可清理空间
+XOS Defaults	XOS 默认
+Version {0}.{1}.{2}	版本 {0}.{1}.{2}
+Disable Serial Ports	禁用串行端口
+System errors	系统错误
+Sets the GPU priority for games in the Windows multimedia scheduler. Microsoft says Windows does not use this value yet, so expect no change.	设置游戏在 Windows 多媒体调度器中的 GPU 优先级。微软称 Windows 尚未使用此值，预计没有变化。
+Full Screen Optimizations: Checking	全屏优化：检查中
+Search modules...	搜索模块...
+Prevent Auto Restarts	阻止自动重启
+No tasks found.	无任务。
+No MSI-capable devices with allocated interrupts were found.	未找到已分配中断且支持 MSI 的设备。
+Categories	类别
+Unrestricted	无限制
+Disable	禁用
+XOS detected	检测到XOS
+FiveM Services	FiveM 服务
+Some legacy touchpads and serial input devices depend on these drivers. Disabling can break affected hardware.	一些旧式触控板串口输入设备依赖这些驱动。禁用可能损坏相关硬件。
+Windows' built-in antivirus: real-time protection, SmartScreen and related services. Disabling it leaves the PC without virus protection unless you install another antivirus. You can turn it back on here at any time.	Windows 内置杀毒：实时保护、SmartScreen 及相关服务。禁用后电脑失去病毒防护，除非安装其他杀毒软件。可随时在此重新开启。
+Multiplane Overlay (MPO)	多平面覆盖 (MPO)
+Widgets and News	小组件/资讯
+Add Rule	添加
+Note: Disabling will cause Task Manager to show 0% network usage and Windows data usage stats to stop updating.	注意：禁用会导致任务管理器显示 0% 网络用量，Windows 数据用量统计停止更新。
+Restore Selected	恢复选中项
+Supported modes	支持的模式
+XOS CPU Service starts when you sign in and applies your CPU rules to matching programs automatically.	XOS CPU Service 在你登录时启动，并自动为匹配的程序应用你的 CPU 规则。
+Windows diagnostic services and sleep reports that collect system health and battery data. Disabling them reduces background activity, but Windows troubleshooters stop working. Requires a restart.	收集系统健康和电池数据的 Windows 诊断服务和睡眠报告。禁用可减少后台活动，但 Windows 疑难解答会停止工作。需重启。
+Windows protections against a group of CPU security flaws known as Spectre and Meltdown. Disabling them can improve performance, mostly on older CPUs, but lowers security. Requires a restart.	针对 Spectre 和 Meltdown 等 CPU 安全漏洞的 Windows 防护。禁用可提升性能（主要在旧 CPU），但降低安全性。需重启。
+Only old duplicates of your GPU/audio/chipset drivers are safe to remove. Deleting the active driver for a device may break it until you reinstall. "Pick old duplicates" keeps the newest package per provider, class and INF name, selects the rest. An older package a device is still using is marked IN USE and never picked.	只有旧的 GPU/音频/芯片组驱动副本可以安全移除。删除设备正在使用的驱动可能让它失效，直到重装。"Pick old duplicates" 会为每个提供商、类和 INF 名保留最新包，其余全选。设备仍在使用的旧包会标记 IN USE 且绝不被选中。
+Limits how often apps in the background receive mouse movement. The Windows default is 125 Hz. 50 Hz can save a little CPU with high polling rate mice, but apps that read the mouse from the background, like overlays or macro tools, may feel choppy. Windows 11 22H2 and newer only. Experimental.	限制后台应用接收鼠标移动消息的频率。Windows 默认 125 Hz。50 Hz 配合高回报率鼠标可省一点 CPU，但从后台读取鼠标的应用（如叠加层或宏工具）可能卡顿。仅 Windows 11 22H2 及更新版本。实验性。
+Remote Desktop (RDP)	远程桌面 (RDP)
+Disable MPO	禁用 MPO
+Update Maintenance	更新维护
+AppX Manager	AppX管理
+Device	设备
+This is also controlled by System > Power Savings. The most recent choice takes effect.	这也受 系统 > 省电 控制。以最近一次选择为准。
+About	关于
+Many apps need WebView2 to work, such as Microsoft Teams and the new Outlook. Block stops it from installing and updating through Edge Update. Remove uninstalls it. Some app installers may put it back anyway.	许多应用需要 WebView2 才能运行，如 Microsoft Teams 和新版 Outlook。阻止会停止它通过 Edge Update 安装和更新。移除会卸载它。某些安装程序仍可能把它装回来。
+Virtualization-Based Security (VBS)	基于虚拟化的安全 (VBS)
+Windows keeps its trusted root certificates current through Windows Update. With updates paused or disabled, that can stop, and over time some HTTPS sites, installers, or signed apps may fail with certificate errors. This fetches the current root certificates straight from Microsoft and installs them. Use it if you run into certificate or secure-connection errors.	Windows 通过 Windows 更新保持受信任根证书最新。更新暂停或禁用后可能停止，久而久之部分 HTTPS 网站、安装程序或已签名应用可能报证书错误。此操作直接从微软获取当前根证书并安装。遇到证书或安全连接错误时使用。
+Update Notifications	更新通知
+Lets the graphics card show videos and some windows on separate display layers, so Windows has less to draw itself. Keep it on. Turning it off makes Windows draw everything itself, which adds GPU work.	让显卡分开显示层来显示视频和部分窗口，减少 Windows 自己绘制的工作。保持开启。关掉后 Windows 要自己绘制一切，增加 GPU 负担。
+Restore Shell Folders	恢复用户文件夹
+XOS Toolkit and this PC at a glance	XOS Toolkit 与这台电脑速览
+Gallery	图库
+Install WebView2	安装WebView2
+Quick Access	快速访问
+Driver Cleaner	驱动清理
+Disable (Keep Notifications)	禁用（保留通知）
+Refresh List	刷新列表
+System Control	系统控制
+Troubleshooting	疑难解答
+Application inventory	应用程序清单
+Enable VPN Services	启用 VPN 服务
+Show or hide the Music folder in both places it appears: the Quick Access (Home) pins in the sidebar and the folder list inside This PC.	显示或隐藏音乐文件夹出现的两处：侧边栏的快速访问 (主页) 固定项和"此电脑"内的文件夹列表。
+Widgets app: checking	小组件：检查中
+Reset to Default & Reboot	恢复默认并重启
+WHEA errors	WHEA错误
+Uninstall XOS	卸载XOS
+Restarts the PC right away into your BIOS/UEFI settings. Save your work first.	立即重启电脑进入 BIOS/UEFI 设置。请先保存工作。
+Driver Updates via Windows Update	Windows 更新中的驱动更新
+Windows Default	Windows 默认
+Gaming	游戏
+Show or hide Home in the File Explorer navigation pane.	在资源管理器导航窗格显示或隐藏主页。
+SOURCE / ID	来源 / ID
+COM and LPT port drivers. Only needed for older hardware that connects this way.	COM 和 LPT 端口驱动。仅旧式硬件用此方式连接时需要。
+Combined	组合
+Enumerating driver packages...	正在枚举驱动包...
+Game Bar & Full Screen Mode	Game Bar 与全屏模式
+Uninstall Chocolatey	卸载 Chocolatey
+Services	服务
+Application inventory is report-only. Hardware-instance settings such as MSI mode, GPU, network adapter, monitor, and PnP device paths are not included.	应用程序清单仅为报告。MSI 模式、GPU、网卡、显示器和 PnP 设备路径等硬件实例设置不包含在内。
+Allow Windows to download updates when using mobile hotspots or data-limited connections.	允许 Windows 在使用移动热点或流量受限连接时下载更新。
+Force delete (use if normal delete fails)	强制删除（删除失败时用）
+Default	默认
+Printing & Scanners	打印与扫描
+Optimize FSE	优化 FSE
+Software	软件
+App errors	App错误
+Save as Preset	存为预设
+Wireless screen casting to TVs, monitors and projectors over Wi-Fi. Needed for Win+K casting.	通过 Wi-Fi 无线投屏到电视、显示器和投影仪。Win+K 投屏需要它。
+Startup Manager	启动管理器
+Updates	更新
+Restore Defaults	恢复默认值
+Lets USB devices go into low power mode when idle. If a mouse, keyboard or headset disconnects or stops responding at random, disable this.	让 USB 设备空闲时进入低功耗模式。如果鼠标、键盘或耳机随机断开或无响应，请禁用此项。
+USB Power Saving	USB 省电
+Classic	经典
+Manage message-signaled interrupts and interrupt priority for installed devices	管理已安装设备的消息信号中断和中断优先级
+Add New Rule	新建规则
+Remove old, duplicate, or orphan OEM drivers from the Windows Driver Store	从 Windows 驱动库中移除旧的、重复的或孤立的 OEM 驱动
+Background Apps	后台应用
+Turns the Wi-Fi services on or off. You need them to connect over Wi-Fi, including VPNs that use a wireless connection. Wi-Fi drivers must be installed separately.	开关 Wi-Fi 服务。通过 Wi-Fi 连接需要它，包括用无线连接的 VPN。Wi-Fi 驱动需另行安装。
+Apply All Rules Now	应用所有规则
+Videos	视频
+Remove inactive devices left behind by hardware that is no longer connected. Devices with CPU affinity configured are preserved.	移除已断开硬件遗留的不活跃设备。配置了 CPU 亲和性的设备会被保留。
+Enable Game Bar Only	仅启用 Game Bar
+System Responsiveness for Games	游戏系统响应性
+Critical and Error entries from the System and Application logs. WHEA warnings and informational events are excluded.	系统和应用程序日志中的严重和错误条目。不包括 WHEA 警告和信息事件。
+No OEM drivers found.	未发现 OEM 驱动
+50 Hz (Low)	50 Hz (低)
+Spectre / Meltdown Mitigations	Spectre / Meltdown 缓解
+Widgets on Windows 11 and News and interests on Windows 10, set through local Group Policy. Disable is the XOS default; while it is set, Windows shows these settings as managed by your organization. Enable removes the policy and returns them to the Windows default.	Windows 11 的小组件和 Windows 10 的资讯与兴趣，通过本地组策略设置。禁用是 XOS 默认；设置期间 Windows 将其显示为由组织管理。启用会移除该策略并恢复 Windows 默认。
+Controls whether Edge Update can install or update Microsoft Edge. Blocking does not stop Edge from being installed in other ways. Does not affect WebView2 below.	控制 Edge Update 能否安装或更新 Microsoft Edge。阻止并不能阻止通过其他方式安装 Edge。不影响下方的 WebView2。
+Refresh KGL Metadata	刷新 KGL 元数据
+Windows features	Windows 功能
+Get help, report issues, share feedback, and follow XOS development.	获取帮助、报告问题、分享反馈，并关注 XOS 开发。
+Automatically Manage Color for Apps	自动管理应用颜色
+Last 7 days	最近7天
+Fix Windows Time Sync	修复时间同步
+Community & Support	社区与支持
+Browse	浏览
+Turns Bluetooth services, drivers and tasks on or off. Needed for Bluetooth headphones, controllers, mice and keyboards. Requires a restart.	开关蓝牙服务、驱动和任务。蓝牙耳机、手柄、鼠标和键盘需要它。需重启。
+No startup entries found.	未找到启动项。
+Snipping Tool should be installed and kept up to date through the Microsoft Store.	截图工具应通过 Microsoft Store 安装并保持更新。
+Enable Serial Ports	启用串行端口
+Show or hide Gallery in the File Explorer navigation pane.	在资源管理器导航窗格显示或隐藏图库。
+Full Screen Exclusive (FSE) gives a game direct control of the screen. Full Screen Optimizations (FSO) is the Windows default and makes Alt-Tab faster. Neither is best for every game, so try both. Disabling Game Bar also turns off Game Mode and background game recording.	独占全屏 (FSE) 让游戏直接控制屏幕。全屏优化 (FSO) 是 Windows 默认方式，让 Alt-Tab 更快。两者都不适合所有游戏，都试试。禁用 Game Bar 也会关掉游戏模式和后台录制。
+Network Throttling	网络限流
+Service start states	服务启动状态
+App Installer	App安装器
+Logon Entries	登录项
+No rules configured yet.	尚未配置规则。
+Toolkit settings	Toolkit 设置
+FiveM needs PcaSvc, DPS, DiagTrack, SysMain and EventLog to be running. Enable them here if you play FiveM.	FiveM 需要 PcaSvc、DPS、DiagTrack、SysMain 和 EventLog 运行。玩 FiveM 就在这里启用它们。
+Add to Context Menu	加入右键菜单
+Delivery Optimization	传递优化
+CPU Priority for Gaming	游戏 CPU 优先级
+Bluetooth	蓝牙
+Lets the graphics card manage its own memory and scheduling, which can lower CPU use and input delay. Required for NVIDIA DLSS Frame Generation. Needs Windows 10 2004 or newer and a supported graphics driver. Requires a restart.	让显卡管理自己的显存和调度，可降低 CPU 占用和输入延迟。NVIDIA DLSS 帧生成需要它。需要 Windows 10 2004 或更新版本和支持的显卡驱动。需重启。
+Browse and remove Windows built-in AppX packages	浏览并移除 Windows 内置 AppX 包
+Repairs the Windows Time service and syncs your clock with internet time servers. Use this if your clock is wrong or will not update.	修复 Windows 时间服务并与互联网时间服务器同步时钟。时钟不准或无法更新时使用。
+Clear Selection	清除选择
+Version	版本
+Blocks untrusted or modified drivers from loading. Needs VBS to be on. Disabling it can fix problems with older drivers and slightly lower latency, but lowers security.	阻止不受信任或已修改的驱动加载。需要开启 VBS。禁用可修复旧驱动的问题并略微降低延迟，但降低安全性。
+Automatic Restart Behavior	自动重启行为
+Last 24 hours	近24小时
+Memory	内存
+Remove Microsoft Edge	移除 Microsoft Edge
+Apply Changes	应用更改
+Peripherals & Features	外设与功能
+System Usage & Diagnostics Reporting	系统使用与诊断报告
+Enable Bluetooth	启用蓝牙
+One-click updates that normally come through Windows Update. They download straight from Microsoft, so they work even while updates are paused or disabled.	通常通过 Windows 更新推送的一键更新。它们直接从微软下载，因此在更新暂停或禁用时也能用。
+Enable VBS first to turn on Memory Integrity.	先启用 VBS 再开内存完整性。
+Disable Bluetooth	禁用蓝牙
+User Account Control (UAC)	用户账户控制 (UAC)
+Hardware Overlays	硬件叠加
+Driver 	驱动 
+Enable Printing	启用打印
+Manage the parts of Windows that matter without digging through policies, services, and command-line tools.	管理 Windows 的关键部分，无需翻找策略、服务和命令行工具。
+Reboot now	重启
+Alt-Tab Style	Alt-Tab样式
+{0} entry/entries	{0} 项
+VPN Services	VPN 服务
+Individual	单独
+Hard Disabled	硬禁用
+Lets you switch between Windows themes in Personalization settings. Disabling it saves a small amount of resources, but you cannot change themes until you enable it again.	让你在个性化设置中切换 Windows 主题。禁用可节省少量资源，但重新启用前无法更改主题。
+Windows groups small network packets together before sending them. Disabling this can lower delay in online games that rely on it, at the cost of slightly more network traffic. Many games already turn it off themselves.	Windows 会把小的网络数据包合并后再发送。禁用可降低依赖此机制的网游延迟，代价是网络流量略增。许多游戏已自行禁用它。
+Update Availability Notifications	更新可用通知
+Last 30 days	最近30天
+Clipboard history (Win+V) and the Win+Shift+S screenshot tool. Snipping Tool needs notifications turned on to save your screenshots.	剪贴板历史 (Win+V) 和 Win+Shift+S 截图工具。截图工具需要打开通知才能保存截图。
+Force FSE	强制FSE
+Show or hide the Videos folder in both places it appears: the Quick Access (Home) pins in the sidebar and the folder list inside This PC.	显示或隐藏视频文件夹出现的两处：侧边栏的快速访问 (主页) 固定项和"此电脑"内的文件夹列表。
+Show notifications when updates are available or being installed.	有可用更新或正在安装更新时显示通知。
+RemoteSigned	远程签名
+Controls whether PowerShell scripts can run. XOS sets Unrestricted so its scripts run without prompts. Restricted blocks all scripts and is the Windows default. RemoteSigned runs your own scripts but blocks unsigned ones downloaded from the internet, a good balance of safety.	控制 PowerShell 脚本能否运行。XOS 设为无限制，让其脚本无提示运行。受限阻止所有脚本，是 Windows 默认值。远程签名运行你自己的脚本，但阻止从互联网下载的未签名脚本，安全性较均衡。
+Disable Sharing	禁用共享
+System Overview	系统概览
+Set per-process CPU Set or Affinity rules. A lightweight service applies rules automatically at logon.	为每个进程设置 CPU Set 或亲和规则。轻量服务在登录时自动应用规则。
+Pictures	图片
+Wi-Fi cannot be changed while a Windows VPN connection is active.	Windows VPN 连接活动期间无法更改 Wi-Fi。
+Serial Ports	串行端口
+Enable HAGS	启用 HAGS
+Only devices that report MSI or MSI-X hardware support can be toggled. Leave the limit blank to use the driver default. Incorrect settings can prevent a device from starting, so change only hardware you recognize.	只有报告支持 MSI 或 MSI-X 硬件的设备才可切换。留空上限使用驱动默认值。错误设置可能导致设备无法启动，只改你认识的硬件。
+GPU & Network Monitoring	GPU 与网络监控
+Auto-Update Microsoft Store Apps	自动更新商店应用
+Windows Defaults	Windows 默认
+Windows' built-in virtualization. Needed by WSL2, Docker Desktop, Windows Sandbox and some Android emulators. Disabling it removes virtual machine support. Requires a restart.	Windows 内置虚拟化。WSL2、Docker Desktop、Windows Sandbox 和部分安卓模拟器需要它。禁用会移除虚拟机支持。需重启。
+Working...	处理中
+Remove Chocolatey	移除 Chocolatey
+Join Discord	加群
+ Read before removing	删除前必读
+↻  Refresh	↻  刷新
+Scan	扫
+Only old duplicates of your GPU/audio/chipset drivers are safe to remove. Deleting the active driver for a device may break it until you reinstall. "Pick old duplicates" keeps the newest package per provider, class and INF name, selects the rest. An older package a device is still using is marked IN USE and never picked.	仅 GPU、音频、芯片组的旧重复驱动包可安全移除。删除设备当前使用的活动驱动可能导致设备失效，直至重新安装。「仅挑旧重复项」会按提供者、类和 INF 名保留最新包并选中其余项。设备仍在使用的较旧包会标记为 IN USE（使用中），永远不会被选中。

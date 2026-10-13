@@ -1,0 +1,20 @@
+# us_map.tsv —— 运行时字符串堆(#US)覆写白名单（UTF-16 等长填充）
+# 原则：安全翻译第一——只收录经源码路线实际替换并启动验证无副作用的纯显示文本。
+#       路由 key / 数据键 / 比较值一律不入表；工具另内置黑名单兜底（即使误入也不覆写）。
+# 格式：EN<TAB>ZH 单行条目；文本内换行写作 |（竖线占位），加载时还原为换行。UTF-8。
+Standard Windows	标准 Windows
+Build {0}.{1}.{2}	版本 {0}.{1}.{2}
+Build 	版本
+Version {0}.{1}.{2}	版本 {0}.{1}.{2}
+{0} cores / {1} logical processors	{0} 核 / {1} 线程
+{0} logical processors	{0} 线程
+ logical processors	线程
+{0:0.#} GB currently available	当前可用 {0:0.#} GB
+Driver 	驱动
+[About] Could not open 	[关于] 无法打开
+OK	确定
+Yes	是
+No	否
+Cancel	取消
+{0} entry/entries	{0} 项
+This tool is designed for XOS users.|You can still use it on a standard Windows install, but expect bugs, stability problems, and limited functionality. Some options rely on registry keys, services, and tweaks that the XOS Playbook sets up.|For the full experience, apply the XOS Playbook first.	本工具专为 XOS 用户设计。|你仍可在标准 Windows 系统上使用，但可能会遇到 Bug、稳定性问题和功能受限。部分选项依赖于 XOS Playbook 所设置的注册表项、服务和调整。|如需完整体验，请先应用 XOS Playbook。
